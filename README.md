@@ -12,16 +12,7 @@ This guide provides step-by-step instructions to create a connector in **Azure A
 Before starting, ensure the following:
 
 - **Azure Account**: An active Azure subscription.  
-- **AWS Account**: Permissions to deploy the CloudFormation template and manage EC2 instances.  
-- **Permissions**: Grant the `AmazonEC2FullAccess` IAM role in AWS.  
-- **SSM Agent**: Installed on your EC2 instances (pre-installed in most AMIs).  
-- **IAM Role**: Attach the `ArcForServerSSMRole` IAM role to each EC2 instance.  
-- **Azure Arc Resource Providers**: Registered in your Azure subscription:
-  ```bash
-  az provider register --namespace Microsoft.HybridCompute
-  az provider register --namespace Microsoft.GuestConfiguration
-  ```
-
+- **AWS Account**: An active Azure subscription
 ---
 
 ## Steps to Create an Azure Arc Connector for AWS VMs
