@@ -72,7 +72,9 @@ Provide AWS account details:
 2. Deploy the template in your AWS account:
    - Log in to the **AWS Management Console**.
    - Navigate to **CloudFormation**.
-   - Deploy the template to set up the necessary IAM roles and permissions.
+   - Click on **Create Stack**
+
+![image](https://github.com/user-attachments/assets/1fb6e830-ae77-435f-90c7-982d02f2ba43)
 
 ### 7. Complete the Connector Setup
 - Return to the Azure portal.
