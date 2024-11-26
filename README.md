@@ -19,7 +19,7 @@ Before starting, ensure the following:
 
 ### 1. Sign In to Azure Portal
 - Go to the [Azure portal](https://portal.azure.com).
-- Navigate to **Azure Arc > Azure Arc resources > Add/Create > Add a machine**
+- Navigate to **Azure Arc > Azure Arc resources > Machines > Add/Create > Add a machine**
 
 ![image](https://github.com/user-attachments/assets/838a04d8-b9c9-4fa7-bda5-ba8f78731b07)
 
