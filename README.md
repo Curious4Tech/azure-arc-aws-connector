@@ -95,7 +95,10 @@ Provide AWS account details:
 
 ### 7. Complete the Connector Setup
 - Return to the Azure portal.
-- Follow the instructions to finalize the connector setup.
+- Click on **Next**.
+- **Review and create**: Verify if everything is correct and then click on **Create**
+
+![image](https://github.com/user-attachments/assets/9d539ac7-cc31-453d-815b-cf92a06e08d9)
 
 ### 8. Enable Arc Onboarding for AWS VMs
 1. Ensure your AWS EC2 instances meet these prerequisites:
