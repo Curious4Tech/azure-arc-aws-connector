@@ -25,8 +25,7 @@ Before starting, ensure the following:
 
 
 ### 2. Configure Environment Settings
-1. In the **Azure Arc** menu, select **Environment settings**.
-2. Click **Add environment** and choose **Amazon Web Services**.
+1. Click  **Add servers** in **Add servers from AWS**
 
 ![image](https://github.com/user-attachments/assets/21c7adde-431b-4611-9a9e-ba961537be3d)
 
