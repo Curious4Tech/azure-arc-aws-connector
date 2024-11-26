@@ -1,10 +1,6 @@
 # azure-arc-aws-connector
 Step-by-step guide to configure and manage AWS VMs using Azure Arc, including setup, prerequisites, and management options
 
-
-Here's a **README.md** file written in Markdown format based on your provided content:
-
-```markdown
 # Azure Arc Connector for AWS VMs
 
 This guide provides step-by-step instructions to create a connector in **Azure Arc** for managing and monitoring **AWS VMs**.
