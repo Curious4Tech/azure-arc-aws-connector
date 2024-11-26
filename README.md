@@ -50,7 +50,15 @@ Provide AWS account details:
 - Click on **+Add** in **Arc onboarding** section.
 
 ![image](https://github.com/user-attachments/assets/4ed203aa-8a5f-4c94-bad0-654e2125e494)
+
+- A new window will open, for the sake of this demo, don't change anything, now click on **Save**.
+
+![image](https://github.com/user-attachments/assets/1c0998fb-03a4-4073-b5b8-8d0b78fc0cbc)
+
 - Review and click **Next**.
+
+![image](https://github.com/user-attachments/assets/9398ce44-9c23-4ab1-88d9-72683c7c4d62)
+
 
 ### 5. Review and Create the Connector
 - Validate the configuration details.
