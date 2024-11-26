@@ -46,8 +46,9 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/6d28e98f-76e1-449b-a0cd-cb8ff91c4ea5)
 
-### 4. Select Plans
-- Enable the **Servers** plan to extend Microsoft Defender for Servers coverage to your AWS EC2 instances.
+### 4. Solution
+- Click on **+Add** in **Arc onboarding** section.
+![image](https://github.com/user-attachments/assets/4ed203aa-8a5f-4c94-bad0-654e2125e494)
 - Review and click **Next**.
 
 ### 5. Review and Create the Connector
