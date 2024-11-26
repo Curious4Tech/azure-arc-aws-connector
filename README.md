@@ -30,18 +30,21 @@ Before starting, ensure the following:
 ![image](https://github.com/user-attachments/assets/21c7adde-431b-4611-9a9e-ba961537be3d)
 
 ### 3. Enter AWS Connector Details
-Provide the following details:
+Provide project details:
 
 - **Subscription**: Select your Azure subscription.
 - **Resource Group**: Choose an existing or create a new resource group.
 - **Connector Name**: A descriptive name for the connector.
-- **Location**: Select the Azure region.
+- **Azure region**: Select the Azure region.
 
 ![image](https://github.com/user-attachments/assets/51ad3e1a-f625-474a-b9f8-27138b2362e0)
 
+Provide AWS account details: 
 - **AWS Account ID**: Enter your AWS account ID.
+- **Account type** : Single account or Organisation account.
+-Click **Next**.
 
-Click **Next: Select plans**.
+![image](https://github.com/user-attachments/assets/6d28e98f-76e1-449b-a0cd-cb8ff91c4ea5)
 
 ### 4. Select Plans
 - Enable the **Servers** plan to extend Microsoft Defender for Servers coverage to your AWS EC2 instances.
