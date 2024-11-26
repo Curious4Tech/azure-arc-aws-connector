@@ -88,6 +88,10 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/ccca99a5-b54a-4a1a-8ae3-23e47acc599c)
 
+ - Your stack creation is in progress it will few minutes to fully be created.
+
+![image](https://github.com/user-attachments/assets/b9573adf-a471-4cea-988f-1ef780aed6c4)
+
 
 ### 7. Complete the Connector Setup
 - Return to the Azure portal.
