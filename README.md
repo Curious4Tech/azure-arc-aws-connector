@@ -100,11 +100,11 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/9d539ac7-cc31-453d-815b-cf92a06e08d9)
 
-### 8. Enable Arc Onboarding for AWS VMs
-1. Ensure your AWS EC2 instances meet these prerequisites:
-   - **IAM Role**: Attach the `ArcForServerSSMRole` to each EC2 instance.
-   - **SSM Agent**: Installed on all EC2 instances.
-   - **Connected Machine Agent**: Installed as part of the onboarding process.
+### 8. Verification
+  - Go to your created connector, under **Resources**. You should see your AWS servers (VMs).
+  
+![image](https://github.com/user-attachments/assets/cc56ebcc-82bd-40bf-9df0-c152698c374f)
+
 
 2. Configure the connectivity method for the **Connected Machine agent**:
    - **Public Endpoint**: Use direct internet access.
