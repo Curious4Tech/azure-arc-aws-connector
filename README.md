@@ -76,11 +76,14 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/1fb6e830-ae77-435f-90c7-982d02f2ba43)
 
-   - Choose as you see on this screenhot for the sake of this demo. Click on **upload file** to upload the script provided by Azure.
+  - Choose as you see on this screenhot for the sake of this demo. Click on **upload file** to upload the script provided by Azure.
 
 ![image](https://github.com/user-attachments/assets/a85cb354-68ba-47a9-950c-c53872d8e123)
 
+  - Give a name for your stack (e.g; WAS2AZURE)
+![image](https://github.com/user-attachments/assets/68cc28d3-0556-4c38-9388-0f1dca6d2a86)
 
+   
 
 ### 7. Complete the Connector Setup
 - Return to the Azure portal.
