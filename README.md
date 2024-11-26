@@ -32,13 +32,13 @@ Before starting, ensure the following:
 ### 3. Enter AWS Connector Details
 Provide the following details:
 
-- **Connector Name**: A descriptive name for the connector.
-- **Onboard**: Choose between:
-  - **Single Account**: For one AWS account.
-  - **Management Account**: For multiple accounts using AWS Organizations.
 - **Subscription**: Select your Azure subscription.
 - **Resource Group**: Choose an existing or create a new resource group.
-- **Location**: Select the Azure region corresponding to your AWS account's region.
+- **Connector Name**: A descriptive name for the connector.
+- **Location**: Select the Azure region.
+
+![image](https://github.com/user-attachments/assets/51ad3e1a-f625-474a-b9f8-27138b2362e0)
+
 - **AWS Account ID**: Enter your AWS account ID.
 
 Click **Next: Select plans**.
