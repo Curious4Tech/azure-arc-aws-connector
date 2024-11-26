@@ -60,9 +60,12 @@ Provide AWS account details:
 ![image](https://github.com/user-attachments/assets/9398ce44-9c23-4ab1-88d9-72683c7c4d62)
 
 
-### 5. Review and Create the Connector
-- Validate the configuration details.
-- Click **Create** to finalize the connector.
+### 5. Add AWS connector
+- **Download** or **Copy** the script provide.
+- Click **Go to AWS CloudFormation Stacks** to finalize the connector.
+
+![image](https://github.com/user-attachments/assets/6498a8e8-b469-4cb5-aada-ab192e185ef4)
+
 
 ### 6. Deploy the CloudFormation Template
 1. Once the connector is created, Azure generates a **CloudFormation template**.
