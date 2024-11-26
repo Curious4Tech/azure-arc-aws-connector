@@ -21,12 +21,14 @@ Before starting, ensure the following:
 - Go to the [Azure portal](https://portal.azure.com).
 - Navigate to **Azure Arc > Azure Arc resources > Machines > Add/Create > Add a machine**
 
-![image](https://github.com/user-attachments/assets/838a04d8-b9c9-4fa7-bda5-ba8f78731b07)
+![image](https://github.com/user-attachments/assets/cd99131f-3d1c-4590-af6f-db3c9d21e613)
 
 
 ### 2. Configure Environment Settings
 1. In the **Azure Arc** menu, select **Environment settings**.
 2. Click **Add environment** and choose **Amazon Web Services**.
+
+![image](https://github.com/user-attachments/assets/21c7adde-431b-4611-9a9e-ba961537be3d)
 
 ### 3. Enter AWS Connector Details
 Provide the following details:
