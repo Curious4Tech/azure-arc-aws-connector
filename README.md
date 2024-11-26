@@ -40,9 +40,9 @@ Provide project details:
 ![image](https://github.com/user-attachments/assets/51ad3e1a-f625-474a-b9f8-27138b2362e0)
 
 Provide AWS account details: 
-- **AWS Account ID**: Enter your AWS account ID.
 - **Account type** : Single account or Organisation account.
--Click **Next**.
+- **AWS Account ID**: Enter your AWS account ID.
+- Click **Next**.
 
 ![image](https://github.com/user-attachments/assets/6d28e98f-76e1-449b-a0cd-cb8ff91c4ea5)
 
