@@ -84,7 +84,7 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/68cc28d3-0556-4c38-9388-0f1dca6d2a86)
 
- - Follow the wizard and at the en click on **Submit**
+ - Follow the wizard and at the end click on **Submit**
 
 ![image](https://github.com/user-attachments/assets/ccca99a5-b54a-4a1a-8ae3-23e47acc599c)
 
