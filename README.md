@@ -61,7 +61,7 @@ Provide AWS account details:
 
 
 ### 5. Add AWS connector
-- **Download** or **Copy** the script provide.
+- **Download** or **Copy** the script generated.
 - Click **Go to AWS CloudFormation Stacks** to finalize the connector.
 
 ![image](https://github.com/user-attachments/assets/6498a8e8-b469-4cb5-aada-ab192e185ef4)
@@ -76,7 +76,7 @@ Provide AWS account details:
 
 ![image](https://github.com/user-attachments/assets/1fb6e830-ae77-435f-90c7-982d02f2ba43)
 
-  - Choose as you see on this screenhot for the sake of this demo. Click on **upload file** to upload the script provided by Azure.
+  - Choose as you see on this screenhot for the sake of this demo. Click on **choose file** to upload the script provided by Azure.
 
 ![image](https://github.com/user-attachments/assets/a85cb354-68ba-47a9-950c-c53872d8e123)
 
