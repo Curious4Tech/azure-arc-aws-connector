@@ -101,22 +101,19 @@ Provide AWS account details:
 ![image](https://github.com/user-attachments/assets/9d539ac7-cc31-453d-815b-cf92a06e08d9)
 
 ### 8. **Verify AWS VMs**
-  - Go to your created connector, under **Resources**. You should see your AWS servers (VMs).
+  - Go to your created connector, AWS VMs will appear under **Resources**. You should see your AWS servers (VMs).
   
 ![image](https://github.com/user-attachments/assets/cc56ebcc-82bd-40bf-9df0-c152698c374f)
 
-  - If you back your **Azure Arc > Azure arc resources > Machines**, you should also see your AWS servers (VMs).
+  - If you go back to your **Azure Arc > Azure arc resources > Machines**, you should also see your AWS servers (VMs).
 
 ![image](https://github.com/user-attachments/assets/6115e868-4ab5-49ca-97c3-ddb66dcc4341)
 
-## Validation and Management
+## 9. **Validation and Management**
 
 After completing the setup:
 
-1. **Verify AWS VMs**:
-   - AWS VMs will appear under **Azure Arc > Servers** in the Azure portal.
-
-2. **Enable Monitoring**:
+1. **Enable Monitoring**:
    - Use tools like **Azure Policy**, **Azure Monitor**, and **Microsoft Defender for Cloud** to manage and monitor AWS resources.
 
 ---
